@@ -1,6 +1,6 @@
 flask
-opencv-python==4.8.1.78
+opencv-python
 cvlib
-opencv-contrib-python==4.8.1.78
+opencv-contrib-python
 libgl1
 libglib2.0-0
