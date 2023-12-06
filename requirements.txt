@@ -1,1 +1,5 @@
 flask
+cvlib
+
+numpy
+opencv-python-headless
