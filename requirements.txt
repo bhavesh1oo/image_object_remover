@@ -1,3 +1,4 @@
 flask
 opencv-python
 cvlib
+opencv-contrib-python
